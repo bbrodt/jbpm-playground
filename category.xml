@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="JBoss Drools/jBPM Playground">
+      This site contains exemplary Drools and jBPM projects suitable for testing and deployment to a 6.x Drools Runtime.
+   </description>
+   <feature url="features/customer.relationships.feature_1.0.0.qualifier.jar" id="customer.relationships.feature" version="1.0.0.qualifier">
+      <category name="org.jboss.droolsjbpm.jbpm-playground.jbpm-examples"/>
+   </feature>
+   <category-def name="org.jboss.droolsjbpm.jbpm-playground.jbpm-examples" label="jBPM Examples">
+      <description>
+         This site contains exemplary jBPM projects suitable for testing and deployment to a 6.x Drools Runtime.
+      </description>
+   </category-def>
+   <category-def name="org.jboss.droolsjbpm.jbpm-playground.drools-examples" label="Drools Examples"/>
+</site>

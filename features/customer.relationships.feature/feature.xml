@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="customer.relationships.feature"
+      label="Customer Relationships"
+      version="1.0.0.qualifier"
+      provider-name="JBoss"
+      arch="Drools 6.0.x">
+
+   <description>
+      &lt;h2&gt;Customer Relationships Project&lt;/h2&gt;
+&lt;p/&gt;
+This project uses a business process which interacts with an 
+external (public) web service to manage customer information.
+&lt;p/&gt;
+Because the web service is hosted on a remote server, you will
+need internet connectivity to run the example.
+&lt;p/&gt;
+The complete example will create two additional projects besides
+the main project, these are:
+&lt;dl&gt;
+&lt;dt&gt;&lt;h3&gt;customer-relationships-workitems&lt;/h3&gt;
+&lt;dd&gt;This project contains the Work Item Java handler code and can be built using Maven. The resulting jar file must be manually copied into the main project.
+&lt;dt&gt;&lt;h3&gt;customer-relationships-test&lt;/h3&gt;
+&lt;dd&gt;This contains Java test classes that can be run as JUnit tests.
+&lt;/dl&gt;
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      [Enter Copyright Description here.]
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      [Enter License Description here.]
+   </license>
+
+   <url>
+      <discovery label="New discovery site" url="http://newsite"/>
+   </url>
+
+   <plugin
+         id="customer-relationships"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+   <plugin
+         id="customer-relationships-tests"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+   <plugin
+         id="customer-relationships-workitems"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+</feature>
