@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Human Resources - Tests
+Bundle-SymbolicName: human-resources-tests
+Bundle-Description: <html><body>
+ This project contains Java test classes for the <b>Human Resources</b> project.
+ </body></html> 
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: JBoss

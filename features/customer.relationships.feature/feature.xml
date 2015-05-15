@@ -9,7 +9,7 @@
    <description>
       &lt;h2&gt;Customer Relationships Project&lt;/h2&gt;
 &lt;p/&gt;
-This project uses a business process which interacts with an 
+This project uses a business process which interacts with an
 external (public) web service to manage customer information.
 &lt;p/&gt;
 Because the web service is hosted on a remote server, you will
@@ -19,9 +19,12 @@ The complete example will create two additional projects besides
 the main project, these are:
 &lt;dl&gt;
 &lt;dt&gt;&lt;h3&gt;customer-relationships-workitems&lt;/h3&gt;
-&lt;dd&gt;This project contains the Work Item Java handler code and can be built using Maven. The resulting jar file must be manually copied into the main project.
+&lt;dd&gt;This project contains the Work Item Java handler code and
+can be built using Maven. The resulting jar file must be manually
+copied into the main project.
 &lt;dt&gt;&lt;h3&gt;customer-relationships-test&lt;/h3&gt;
-&lt;dd&gt;This contains Java test classes that can be run as JUnit tests.
+&lt;dd&gt;This contains Java test classes that can be run as JUnit
+tests.
 &lt;/dl&gt;
    </description>
 

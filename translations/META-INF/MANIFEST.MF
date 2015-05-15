@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Translations
+Bundle-SymbolicName: translations
+Bundle-Description: <html><body>
+ This project contains the <b>Translations Project</b> Process and Forms.
+ </body></html> 
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: JBoss

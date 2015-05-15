@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Employee Self Evaluation - Tests
+Bundle-SymbolicName: evaluation-tests
+Bundle-Description: <html><body>
+ This project contains Java test classes for the <b>Employee Self Evaluation</b> project.
+ </body></html> 
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: JBoss

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="translations.feature"
+      label="Translations"
+      version="1.0.0.qualifier"
+      provider-name="JBoss"
+      arch="Drools 6.0.x">
+
+   <description>
+      &lt;h2&gt;Translations Project&lt;/h2&gt;
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      [Enter Copyright Description here.]
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      [Enter License Description here.]
+   </license>
+
+   <url>
+      <discovery label="New discovery site" url="http://newsite"/>
+   </url>
+
+   <plugin
+         id="translations"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+</feature>

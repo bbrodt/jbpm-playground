@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Purchases
+Bundle-SymbolicName: purchases
+Bundle-Description: <html><body>
+ This project contains the <b>Purchases Project</b> Process and Forms.
+ </body></html> 
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: JBoss
