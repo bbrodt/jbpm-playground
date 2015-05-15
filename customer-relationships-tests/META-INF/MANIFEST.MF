@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Customer Relationships Example - Tests
+Bundle-Name: Customer Relationships - Tests
 Bundle-SymbolicName: customer-relationships-tests
 Bundle-Version: 1.0.0.qualifier
 Bundle-Vendor: JBoss
